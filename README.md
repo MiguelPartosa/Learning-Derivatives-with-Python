@@ -9,7 +9,7 @@ A repository for notes in learning calculus for machine learning.
 
 ## Goals
 
--   Differential calculus for neural networks
+-   Learn calculus needed for machine learning
 -   Notes with examples in python
 
 ## By the end
