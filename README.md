@@ -1,7 +1,8 @@
 # In Preperation for Making a Neural Network with Numpy and Python
 
-> 📖 Resource
+> 📖 Resources
 > [Calculus for Machine Learning ](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
+> [Repository for ML foundations](https://github.com/jonkrohn/ML-foundations)
 
 ## What is this
 
