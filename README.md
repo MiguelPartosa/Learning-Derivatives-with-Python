@@ -9,9 +9,9 @@
 A repository for notes in learning calculus for machine learning.
 
 ## Goals
-
 -   Learn calculus needed for machine learning
 -   Notes with examples in python
+-   Along with calc, topics that are related to machine learning will be included when necessary.
 
 ## By the end
 
