@@ -16,3 +16,5 @@ A repository for notes in learning calculus for machine learning.
 ## By the end
 
 -   Finish the [neural network repository](https://github.com/MiguelPartosa/Nueral-Network)
+
+> There's a lack of consistency between repeatedly calling `fig, ax = plt.subloths()` and ending a cell with `fig`
